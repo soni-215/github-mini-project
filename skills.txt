@@ -3,3 +3,4 @@ Linux
 Docker
 Devops
 HTML
+kubernetes bascis
